@@ -1,4 +1,4 @@
-## Hi there 👋
+## Try to be better👋
 
 <!--
 **Ridho-Dwi-Syahputra/Ridho-Dwi-Syahputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
