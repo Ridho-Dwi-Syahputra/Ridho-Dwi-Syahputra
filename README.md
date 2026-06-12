@@ -30,14 +30,52 @@
 
 ## `$ whoami`
 
-```yaml
-name        : Ridho Dwi Syahputra
-alias       : eL
-nim         : 2311522033
-degree      : S.Si — Information Systems (Sistem Informasi)
-institution : Universitas Andalas, Padang, West Sumatra
-focus       : AI/ML Engineering · Business Intelligence · Full Stack Development
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="left">
+
+**🧑‍💻 Identity**
+
+| | |
+|---|---|
+| **Name** | Ridho Dwi Syahputra |
+| **Alias** | eL |
+| **NIM** | 2311522033 |
+| **Degree** | Information Systems (S.Si) |
+| **University** | Universitas Andalas |
+| **Location** | Padang, West Sumatra, Indonesia |
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="left">
+
+**⚡ Engineering Focus**
+
+| | |
+|---|---|
+| **Primary** | AI / ML Engineering |
+| **Secondary** | Business Intelligence |
+| **Stack** | Full Stack · Mobile · GIS |
+| **Research** | Deep Learning · Remote Sensing |
+| **Tools** | GEE · Pentaho · Power BI · Flutter |
+| **Status** | 🟢 Open to Opportunities |
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 I am an Information Systems undergraduate at Universitas Andalas with a strong focus on applying machine learning, geospatial intelligence, and full stack engineering to solve real-world problems — from environmental deforestation monitoring in Papua to mobile learning management systems used in production.
 
@@ -45,8 +83,12 @@ My engineering philosophy centers on **systems that matter**: products and resea
 
 I approach every project with a product mindset: understanding stakeholder needs, designing for scalability, and shipping work that is both technically sound and practically useful. My recent work spans a competitive R&D drone innovation challenge, a national data science competition (SATRIA DATA 2026), and industry-grade enterprise application development during my internship at PT Metro Indonesian Software.
 
-**Open To:**
-`Internship Opportunities` · `Research Collaborations` · `Open Source Contributions` · `AI/ML Projects` · `Freelance Engineering Work` · `Competition Teams`
+<div align="center">
+
+**Open To** &nbsp;·&nbsp;
+`Internship Opportunities` &nbsp;·&nbsp; `Research Collaborations` &nbsp;·&nbsp; `Open Source Contributions` &nbsp;·&nbsp; `AI/ML Projects` &nbsp;·&nbsp; `Freelance Engineering` &nbsp;·&nbsp; `Competition Teams`
+
+</div>
 
 ---
 
@@ -316,8 +358,8 @@ Led technology-driven community initiatives including the digitization of waste 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridho-dwi-syahputra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=9B59F5&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridho-dwi-syahputra&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B59F5&text_color=C4B5FD"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridho-dwi-syahputra&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=9B59F5&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridho-dwi-syahputra&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B59F5&text_color=C4B5FD&cache_seconds=86400"/>
 
 </div>
 
@@ -356,8 +398,10 @@ Led technology-driven community initiatives including the digitization of waste 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridho-dwi-syahputra/ridho-dwi-syahputra/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridho-dwi-syahputra/ridho-dwi-syahputra/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ridho-dwi-syahputra/ridho-dwi-syahputra/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ridho-dwi-syahputra/ridho-dwi-syahputra/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+> ℹ️ **Setup required:** add the GitHub Actions workflow `.github/workflows/snake.yml` to your profile repository to enable this animation. Ask me for the workflow file.
 
 </div>
 
