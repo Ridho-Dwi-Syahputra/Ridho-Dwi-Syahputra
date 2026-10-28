@@ -43,7 +43,7 @@
 | | |
 |---|---|
 | **Name** | Ridho Dwi Syahputra |
-| **Alias** | eL |
+| **Alias** | Ridho |
 | **NIM** | 2311522033 |
 | **Degree** | Information Systems (S.Si) |
 | **University** | Universitas Andalas |
